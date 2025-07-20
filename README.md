@@ -10,4 +10,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kentumut&show_icons=true&locale=en&layout=compact" alt="kentumut" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kentumut&show_icons=true&locale=en" alt="kentumut" /></p>
